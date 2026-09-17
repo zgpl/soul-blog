@@ -1,6 +1,6 @@
 export default {
 	title: "Blogging for the Soul",
-	url: "https://example.com/",
+	url: "https://scaraby.netlify.app/",
 	language: "en",
 	description: "How to get into blogging by hand.",
 	author: {
